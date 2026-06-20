@@ -51,7 +51,6 @@ Finally, the system **recommends restaurants** matching the chosen location and 
 └── (You are here)
 
 
-
 ---
 
 ## 🏃‍♂️ How to Run the Project
